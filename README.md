@@ -100,7 +100,8 @@ was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
 
 ## OUTPUT
-<img width="1920" height="1080" alt="Screenshot 2026-10-15 122452" src="https://github.com/user-attachments/assets/4c5f3a10-aeb1-4990-a009-5595d4c454ec" />
+<img width="1920" height="1080" alt="Screenshot 2026-10-21 152256" src="https://github.com/user-attachments/assets/d1a86e83-9666-43e0-9a8b-b0aa2d03d077" />
+
 
 
 
