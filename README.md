@@ -77,8 +77,8 @@ end
 
 endmodule 
 ## Truth Table
- <img width="622" height="675" alt="WhatsApp Image 2026-10-29 at 3 51 17 PM" src="https://github.com/user-attachments/assets/41bae53d-612e-4cc1-b328-65a2e29fc94f" />
-
+ 
+<img width="719" height="308" alt="DLCD EXP 1 (1)" src="https://github.com/user-attachments/assets/6f013d2c-e95a-4560-92cb-7c709dfcf873" />
 
 ## Simulation Procedure
 STEP 1 – Open Terminal
@@ -106,6 +106,8 @@ Other option
 dve -full64 &
 A DVE environment will open.
 ## OUTPUT
+
+
 ## DVE Waveform Verification
 In DVE:
 1.	Open the testbench hierarchy.
@@ -120,14 +122,18 @@ o	F
 5.	Verify that F = 1 whenever B and D are equal.
 6.	Verify that F = 0 whenever B and D are different.
 The waveform should agree with the truth table.
- <img width="1366" height="1157" alt="WhatsApp Image 2026-10-21 at 1 24 46 PM" src="https://github.com/user-attachments/assets/7cd94c88-a3fb-45ac-a066-d90ed2f873ec" />
+
+
+<img width="720" height="403" alt="DLCD EXP 2(2) " src="https://github.com/user-attachments/assets/3e0c431f-feb7-464e-8b23-00266cb0e367" />
 
 ### Expected Result
 The Boolean function
 F(A,B,C,D)=Σm(0,2,5,7,8,10,13,15), which simplifies to F=B'D'+BD.
 was minimized to F=B'D'+BD.
 and successfully implemented using Verilog HDL.
-<img width="598" height="369" alt="WhatsApp Image 2026-10-29 at 3 51 16 PM" src="https://github.com/user-attachments/assets/a8b2c431-2a5d-485b-a8c5-d9ad50cea0de" />
+### OUTPUT 
+
+<img width="687" height="264" alt="DLCD EXP 1 (3)" src="https://github.com/user-attachments/assets/162c68a6-ea31-4377-ab4f-987c092ea0bc" />
 
 
 Result
